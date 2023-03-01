@@ -26,6 +26,7 @@ na koniec gry, agenci ustawiają się w rządku, od agenta który był berkiem n
 
 Tipy:
 [Unreal posiada system do AI oparty na drzewach behawioralnych](https://docs.unrealengine.com/5.0/en-US/behavior-trees-in-unreal-engine/)
+
 [Unreal posiada system do sprawdzania terenu na około aktora - EQS](https://docs.unrealengine.com/4.26/en-US/InteractiveExperiences/ArtificialIntelligence/EQS)
 
 Linki:
